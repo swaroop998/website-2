@@ -3,7 +3,7 @@ Let's Encrypt Website
 
 This is the repository for the main [Let's Encrypt website].
 
-This site is built with [Hugo]. It's entirely static, no server-side code/scripting.
+This site is built with [Hugo]. It is entirely static, no server-side code or scripting.
 
 To see your changes, [install Hugo Extended], then run it with:
 
